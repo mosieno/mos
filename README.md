@@ -1,0 +1,2 @@
+# mos
+dynamic-living
